@@ -1,5 +1,8 @@
 # Maker
 All of Maker technical abilities
+
+![Alt text](MakerHammer.jpg "cjrustic Maker")
+
 # Git/GitHub
 1. Why?
 2. Code: Java
